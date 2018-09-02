@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/lordofzoobs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aimeemikaelac.github.io
+  * I am lordofzoobs (https://keybase.io/lordofzoobs) on keybase.
+  * I have a public key with fingerprint 86CB BDFA D9DF F7ED F92C  22F5 6CE4 968B 3EC5 373B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205bcb7bcfa24695860dbb03761d4548ff09987f7d76ef2e8b77a1a43f4aa761150a",
+      "fingerprint": "86cbbdfad9dff7edf92c22f56ce4968b3ec5373b",
+      "host": "keybase.io",
+      "key_id": "6ce4968b3ec5373b",
+      "kid": "0101f01da1dac40b85a6d4d62d5e9d70a79d97c0837fc6ddae750fc9b56e1ea42d380a",
+      "uid": "dbeb04b5db155df5851205b76afc0819",
+      "username": "lordofzoobs"
+    },
+    "service": {
+      "hostname": "aimeemikaelac.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1535853421,
+  "expire_in": 157680000,
+  "prev": "9857b0bc625b88e995770b58e16c3afa90abf1799041af52004b9cf98846988b",
+  "seqno": 81,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUn9oVVUcfy+3qAe5jdSoWctrfyQ8x7k/zj3nvKCXsYJhOBB06mt7nJ9v17e9
++7z37rUpCm1m2LAyofZHGsxsGhuIWKigYEgxrLUQTUqnOYosWESiJqSd+3L/dThw
+ON/z+Xy+n/Ph++4j8xKp5PAK6+1R7/2VybPXWSI31NKwxWC+6DcyW4yirB6yW8gw
+yhc9YWQMYFoAMs4Q44pajksgdoFgDNjINYUDHawUIAQjhQRypbIkZghRkzq2cijV
+IBMCaqQN5ZUKMigHXinSstjljAlFBRFKISkUsbhlKehy6RAXM1tyaCObaWKXH8YM
+bY7RUDZ7vq7pS75q73/wc76BqYApqN7cAQxD6gpHuJaAkggEKCKCIA6wjRR3haAS
+QaA4YdCVpqSOJWxc9d1blRNMMuAwKJgJoVAQw2ouyKVKa5gkBoYyKNEeqdHdfiB8
+tdn3WWhsTRv6oeJxGWcbf+Y+iHo9UvZ4RSq7KW8ueFFXL/vvd+XAj3zud2tQVxSV
+w0wsEvWXY9ZrkuXv6+WZVxI6Vc2oyCD0/JKRMTWSR17cwIS2tmk7lpk2ZF/ZC2Te
+ixEQuRjolTYK5UBWtCbBEDHAuGtBhrEkBCIEGMTSdLlNFSWAMmUiQoBjUgUtoJMg
+XBGM9TxgHIceyk0l38hg3SuiBa0ZeoUSjXoDaWxN7UzaNYlkKvHkoiU1C1tvHPxn
+fWV8+tPfls+NYu0D8RwmUg/Xz1Wmvngosdtu/nNX5xsDay80s8bpxs6j2VdRW33H
+mdHFs+/MNrw88uuHd75/kWbnTf79495czeSX6/Z9MDN+ZfyxbOumppHixc+eyF1f
+cfav/sq1uttrzq2e7Lw1eKuvc9v8Y1cP9HkXfji8+8bEzKJd08dnbneMnb6IDs5e
+fv6tcMGe1cHysbrn2l+oNNVNfeLVPt5w95dDQ237P2qZ2Hlvc+rBde1rF6wq/NR4
+ZOzS0Kn0Ff+pjtnh6M2bmW/2Za8Zw6PbFu458+32le89Wrw0tWPp0YGNv+89eTNb
+u+FQ08gr2xevOnDvxPlnl05bgycGJva3zXy8ccnn9S8Nvn73u2V/PJ2Yf+rr1ju5
+lp8PJ3M17c/s+Opf
+=vxDz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lordofzoobs
+
+==================================================================
+
