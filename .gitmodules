@@ -1,4 +1,4 @@
 [submodule "coughlin"]
 	path = coughlin
-	url = git@github.com:aimeemikaelac/professional_tab.git
+	url = https://github.com/aimeemikaelac/professional_tab.git
 	branch = master
