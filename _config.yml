@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Aimee Coughlin's Awesome Site
+description: > # this means to ignore newlines until "baseurl:"
+  Aimee Coughlin's github pages site
+fingerprint: 44C6 513A 8E4F B3D3 0875  F758 ED44 4FF0 7D8D 0BF6
+pgp_url: https://keybase.io/lordofzoobs/pgp_keys.asc?fingerprint=86cbbdfad9dff7edf92c22f56ce4968b3ec5373b
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://lordofzoobs.com" # the base hostname & protocol for your site
+twitter_username:
+github_username:  aimeemikaelac
+relative_permalinks: false
+
+# Build settings
+markdown: kramdown

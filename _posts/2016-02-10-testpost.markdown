@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "test post"
+date:   2016-02-10 19:54:00 -0700
+categories: jekyll update
+---
+
+I am a test post. Will probably not use the posts very much, but maybe. Testing creating submodule for ngn site
